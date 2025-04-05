@@ -7,10 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jordanblue0/osTicket-Post-Install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jordanblue0/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting Up Active Directory using Azure VMs](https://github.com/joeljjoseph1998/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
+  - [Setting Up Active Directory using Azure VMs](https://github.com/jordanblue0/Configuring-AD)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/jordanblue0/Azure-Network-Protocol)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
+  - [VPN Setup in Virtual Machine ](https://github.com/jordanblue0/VPN-setup)
 
 <h2>📩Contact Me</h2>
 
