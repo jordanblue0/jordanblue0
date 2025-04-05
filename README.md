@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jordan! <a href="www.linkedin.com/in/jordan-castro-4a7183345">IT Support Technician</a></h1>
 
-<h2>🖥️ Information Technology Projects🖥</h2>
+<h2>🖥️ Information Technology Projects 🖥</h2>
 
 - <b> osTicket: Creating a Ticketing System for Help Desk </b>
   - [osTicket: Prerequisites and Installation](https://github.com/jordanblue0/osTicket-Installation)
